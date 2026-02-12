@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "intro-to-react-course",
+    "title": "React 入门教学项目",
+    "summary": "面向初学者的 React 课程站点，包含组件思维与状态管理练习。",
+    "description": "这个项目用于课堂演示 React 的基础能力，包括组件拆分、Props、State 与事件处理。后续会补充课堂截图和示例代码链接。",
+    "coverImage": ""
+  },
+  {
+    "slug": "nextjs-ssg-demo",
+    "title": "Next.js SSG 示例",
+    "summary": "演示如何使用 Next.js Pages Router 构建纯静态站点。",
+    "description": "项目目标是提供一套可复用的静态内容模板，适合个人教学主页与课程项目归档。",
+    "coverImage": ""
+  }
+]
